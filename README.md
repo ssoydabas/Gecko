@@ -1,2 +1,0 @@
-# Gecko
-Sertan Soydabaş
